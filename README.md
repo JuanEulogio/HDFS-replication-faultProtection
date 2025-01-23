@@ -3,3 +3,4 @@
 - PyArrow
 - Pandas
 - Docker Compose
+- Jupyter Notebook
